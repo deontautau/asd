@@ -15,7 +15,7 @@ function loginPage(){
         document.getElementById('tombol').addEventListener
         ('click', function()
          {
-            window.location.href = 'https://api.smkn11bdg.sch.id/storage/siswa/1769651436_0091987958.jpg';
+            window.location.href = 'https://api.smkn11bdg.sch.id/storage/siswa/1769652026_0098655158.png';
         })
 
 
