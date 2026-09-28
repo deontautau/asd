@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    font-weight: bold;
+    justify-content: center;
+    
+}
+body{
+    background-color: #eafbfdc0;
+}
+.kartu{
+    width:210px;
+    padding: 50px 30px;
+    background-color: beige;
+    border-radius: 8px;
+    box-shadow: 0 1px 15px rgba(3, 3, 3, 0.452);
+    margin-left: 40%;
+    margin-top: 15%;
+}
+h1{
+    text-align: center;
+}
+
+.kartu2{
+    margin-top: 40px;
+}
+.kartu3{
+    margin-top: 10%;
+}
+button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3ab4fa;
+    color: white;
+}
+form{
+    margin-top: 25px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
