@@ -15,7 +15,7 @@ function loginPage(){
         document.getElementById('tombol').addEventListener
         ('click', function()
          {
-            window.location.href = 'https://api.smkn11bdg.sch.id/storage/siswa/1769652026_0099998228.png';
+            window.location.href = 'file:///C:/Users/PC_RBRPL3_011/Downloads/WhatsApp%20Image%202026-09-28%20at%2013.58.12.jpeg';
         })
 
 
